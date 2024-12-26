@@ -1,0 +1,15 @@
+{
+    "Google": {
+        "url": "https://www.google.com/",
+        "method": "GET"
+    },
+    "GitHub": {
+        "url": "https://api.github.com/",
+        "method": "GET"
+    },
+    "Example API": {
+        "url": "https://api.example.com/endpoint",
+        "method": "GET"
+    }
+    
+}
